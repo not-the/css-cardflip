@@ -1,4 +1,4 @@
-# css-cardflip
+# CSS Card Flip
 
 Simple CSS-based card flip "animation" (uses transitions instead of animations for simplicities sake, it should be using an animation to fix the divs from desyncing but this was just a proof of concept).
 
